@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DrumMachine/static/css/main.3b909766.css",
+    "main.js": "/DrumMachine/static/js/main.70ec5df2.js",
+    "static/media/kick.png": "/DrumMachine/static/media/kick.525bee7b6effbef75978.png",
+    "static/media/tom4.png": "/DrumMachine/static/media/tom4.122d484b089581b172e4.png",
+    "static/media/tom3.png": "/DrumMachine/static/media/tom3.3f095c373b1bca5af832.png",
+    "static/media/tom1.png": "/DrumMachine/static/media/tom1.74dae9e368a6d7fff424.png",
+    "static/media/tom2.png": "/DrumMachine/static/media/tom2.d351814f25050605adb2.png",
+    "static/media/crash.png": "/DrumMachine/static/media/crash.b5747617c5a7c27b0a36.png",
+    "static/media/snare.png": "/DrumMachine/static/media/snare.a2c115eb83fa2f90a727.png",
+    "index.html": "/DrumMachine/index.html",
+    "main.3b909766.css.map": "/DrumMachine/static/css/main.3b909766.css.map",
+    "main.70ec5df2.js.map": "/DrumMachine/static/js/main.70ec5df2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b909766.css",
+    "static/js/main.70ec5df2.js"
+  ]
+}
